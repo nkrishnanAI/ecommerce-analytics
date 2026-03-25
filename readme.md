@@ -115,7 +115,6 @@ ecommerce-analytics/
 │
 ├── data/
 ├── notebooks/
-├── models/
 ├── dashboard/
 ├── README.md
 ```
