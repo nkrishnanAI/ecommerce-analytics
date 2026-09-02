@@ -139,19 +139,5 @@ ecommerce-analytics/
 
 ---
 
-## 📎 How to Run
 
-1. Install dependencies:
-
-   ```
-   pip install pandas numpy matplotlib seaborn
-   ```
-2. Run the notebook:
-
-   ```
-   jupyter notebook
-   ```
-3. Execute cells step-by-step
-
----
 
