@@ -121,12 +121,6 @@ ecommerce-analytics/
 
 ---
 
-## 🚀 Future Enhancements
-
-* Customer churn prediction model
-* Customer Lifetime Value (CLV) modeling
-* Interactive dashboard (Power BI / Tableau)
-* Real-time data pipeline integration
 
 ---
 
